@@ -1,0 +1,28 @@
+{
+	"packageUrl" : "http://github.com/haibo19981/hello-world/update/",
+	"remoteManifestUrl" : "http://github.com/haibo19981/hello-world/update/project.manifest",
+	"remoteVersionUrl" : "http://github.com/haibo19981/hello-world/update/version.manifest",
+	"version" : "0.0.1",
+	"engineVersion" : "3.10"
+
+	"assets" : 
+	{
+		"src/app/views/Game.lua" : {
+			"md5" : "..."
+		},
+		"src/app/views/MainScene.lua" : {
+			"md5" : "..."
+		},
+		"res/MainScene.csb" : {
+			"md5" : "..."
+		},
+		"res/HelloWorld.png" : {
+			"md5" : "....."
+		}
+	},
+    
+    "searchPaths" : [
+    	"src",
+    	"res"
+    ]
+}
